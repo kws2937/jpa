@@ -1,4 +1,4 @@
-package com.zerock.ex2;
+package org.zerock.ex2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
